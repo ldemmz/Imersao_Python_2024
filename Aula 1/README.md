@@ -1,7 +1,7 @@
 
 ## Orientações
 
-O arquivo "Tabela de ações.xlsx" é um exercício que fiz utilizando o Google Sheets. Há divergência na renderização dos gráficos ao tentar lê-lo no excel, devido a utilização de recursos exclusivos da plataforma do Sheets.
+O arquivo "Tabela de ações.xlsx" é um exercício que fiz utilizando o Google Sheets. Há divergência na renderização dos gráficos ao tentar lê-lo no excel, isso se deve devido a utilização de recursos exclusivos da plataforma do Sheets.
 
 Tomei a liberdade de acrescentar algumas funcionalidades para práticar os recursos disponíveis. O restante das orientações estão inclusas na página "Leia", dentro da planilha.
 
